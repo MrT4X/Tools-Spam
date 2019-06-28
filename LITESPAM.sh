@@ -1,10 +1,12 @@
 #!/system/xbin/bash
 clear
-git clone https://github.com/amsitlab/smsid-java.git
-cd ./smsid-java
+git clone https://github.com/MrT4X/Tools-Spamr/LITESPAM.sh
+cd LITESPAM.sh
 chmod +x ./install
 apt install ./smsid_1.1_all.deb
 clear
+
+print Tools By:Mr.T4X
 
 toilet -f slant --gay "LiteSpam"
 sleep 1
